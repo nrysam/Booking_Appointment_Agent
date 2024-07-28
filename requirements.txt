@@ -1,0 +1,7 @@
+Flask==2.0.1
+openai==0.28
+pandas
+python-dotenv
+firebase_admin
+gunicorn
+Werkzeug==2.0.1
