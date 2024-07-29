@@ -100,6 +100,10 @@ This project implements a Booking Appointment Agent using OpenAI's GPT-4o-mini m
    gcloud run deploy booking-appointment-service --image gcr.io/your_project_id/booking_appointment --platform managed --region us-central1 --allow-unauthenticated --project your-project-id
    ```
 
+4. **Access the deployed service**:
+    - Visit [Booking Appointment Agent](https://booking-appointment-service-uwgqlufcmq-uc.a.run.app/).
+
+      
 ### Usage
 1. Access the web interface:
 
